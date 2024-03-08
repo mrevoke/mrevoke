@@ -60,12 +60,12 @@ Android Studio, Flutter, Firebase, Unity, Blender, Github.
 
 ## 🔗 Profile Links
 
-[GitHub](https://github.com/jeetsingh29) | [LinkedIn](https://linkedin.com/in/JeetSingh29) | [InterviewBit](#) | [LeetCode](#)
+[GitHub](https://github.com/mrevoke) | [LinkedIn](https://www.linkedin.com/in/jeetsingh29) | [Interview Bit](https://www.interviewbit.com/profile/mrevoke) | [LeetCode](https://leetcode.com/jeet29113/)
 
 ## 📫 Let's Connect!
 
 - Email: jeet29113@gmail.com
-- LinkedIn: [JeetSingh29](https://linkedin.com/in/JeetSingh29)
+- [Linkedin](https://linkedin.com/in/JeetSingh29)
 
 <!---
 jeetsingh29/jeetsingh29 is a ✨ professional ✨ repository because its `README.md` (this file) reflects my experience and skills in mobile application development.
