@@ -34,17 +34,17 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 *February 2024*
 - A versatile platform for entrepreneurs, offering streamlined financial management, legal advisory, enhanced customer service, time management solutions, and efficient HR management, fostering business growth.
 - Solopreneur incorporates a modern tech stack, featuring Flutter for frontend development, Firebase for backend scalability, OpenAI API for AI integration, Firestore for secure database management, Git for version control, Netlify for deployment, and Email-js for efficient email services.
-  
-### Medi-Gaze
-*December 2022*
-- Developed a medicine search app using Flutter, Dart, and Firebase.
-- Leveraged Firebase Authentication and Cloud Messaging for enhanced functionality.
 
 ### Sakhi (SOS App)
 *March 2023*
 - Developed a distress messaging app for user safety in emergencies.
 - Utilized Flutter, Dart, Firebase, and EmailJs for efficient communication.
   
+### Medi-Gaze
+*December 2022*
+- Developed a medicine search app using Flutter, Dart, and Firebase.
+- Leveraged Firebase Authentication and Cloud Messaging for enhanced functionality.
+
 ## 🏆 Achievements
 
 - Winner and Team Leader at Hack2Educate Hackathon by MLH, December 2022.
