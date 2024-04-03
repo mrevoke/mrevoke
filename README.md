@@ -5,7 +5,7 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 ## 🎓 Education
 
 **Lakshmi Narain College Of Technology**
-*Nov 2021 - June 2025*
+*(Nov 2021 - June 2025)*
 - Bachelor of Technology in Computer Science Engineering
 - CGPA of 8.6
 - Bhopal, India
@@ -13,21 +13,18 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 ## 💼 Experience
 
 ### AICTE Idea Lab
-*Oct 2022 – Dec 2022*
-**Mobile Application Developer | Bhopal, India**
+**Mobile Application Developer | Bhopal, India** *(Oct 2022 – Dec 2022)*
 - Created cross-platform mobile applications using Flutter and Dart.
 - Utilized Android Studio (Java) for development, meeting project deadlines successfully.
 - Delivered presentations to share project progress, updates, and findings.
 
 ### Young India (YI)
-*Jan 2023 – Mar 2023*
-**Mobile Application Developer Intern | Bhopal, India**
+**Mobile Application Developer Intern | Bhopal, India** *(Jan 2023 – Mar 2023)*
 - Developed an inclusive educational app for underprivileged individuals.
 - Used Android (Java) for rapid development and integrated multiple APIs for efficiency.
 
 ### Pyramid Developers
-*Apr 2023 – Sept 2023*
-**Mobile Application Developer Intern | Remote**
+**Mobile Application Developer Intern | Remote** *(Apr 2023 – Sept 2023)*
 - Built and maintained cross-platform Flutter applications, focusing on responsive UI design.
 - Collaborated effectively with remote teams to ensure timely project delivery.
 
