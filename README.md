@@ -43,20 +43,27 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 - Developed a distress messaging app for user safety in emergencies.
 - Utilized Flutter, Dart, Firebase, and EmailJs for efficient communication.
 
+
+### Solopreneur
+*February 2024*
+- A versatile platform for entrepreneurs, offering streamlined financial management, legal advisory, enhanced customer service, time management solutions, and efficient HR management, fostering business growth.
+- Solopreneur incorporates a modern tech stack, featuring Flutter for frontend development, Firebase for backend scalability, OpenAI API for AI integration, Firestore for secure database management, Git for version control, Netlify for deployment, and Email-js for efficient email services.
+  
 ## 🏆 Achievements
 
 - Winner and Team Leader at Hack2Educate Hackathon by MLH, December 2022.
 - Third position in Ideathon 2.0 held at LNCT Bhopal.
 - Published LeetCode solutions, aiding 300+ individuals.
 - Achieved 13th global Rank on InterviewBit.
+- Published My apps on Google Playstore and Amazon Appstore.
 
 ## 🛠️ Technical Skills
 
 ### Languages
-C++, Dart, Java, Kotlin, HTML.
+C++, Dart, Java, Kotlin, HTML, CSS, Javascript.
 
 ### Technologies/Frameworks/Libraries
-Android Studio, Flutter, Firebase, Unity, Blender, Github.
+Android Studio, Flutter, Firebase, MongoDb, Unity, Blender, Github.
 
 ## 🔗 Profile Links
 
