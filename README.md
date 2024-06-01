@@ -13,18 +13,18 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 ## 💼 Experience
 
 ### AICTE Idea Lab
-**Mobile Application Developer | Bhopal, India** *(Oct 2022 – Dec 2022)*
+**Mobile Application Developer (Team Lead) | Bhopal, India** *(Oct 2022 – Dec 2022)*
 - Created cross-platform mobile applications using Flutter and Dart.
 - Utilized Android Studio (Java) for development, meeting project deadlines successfully.
 - Delivered presentations to share project progress, updates, and findings.
 
 ### Young India (YI)
-**Mobile Application Developer Intern | Bhopal, India** *(Jan 2023 – Mar 2023)*
+**Mobile Application Developer | Bhopal, India** *(Jan 2023 – Mar 2023)*
 - Developed an inclusive educational app for underprivileged individuals.
 - Used Android (Java) for rapid development and integrated multiple APIs for efficiency.
 
 ### Pyramid Developers
-**Mobile Application Developer Intern | Remote** *(Apr 2023 – Sept 2023)*
+**Mobile Application Developer | Remote** *(Apr 2023 – Sept 2023)*
 - Built and maintained cross-platform Flutter applications, focusing on responsive UI design.
 - Collaborated effectively with remote teams to ensure timely project delivery.
 
