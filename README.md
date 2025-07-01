@@ -5,29 +5,34 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 ## 🎓 Education
 
 **Lakshmi Narain College Of Technology**
-*(Nov 2021 - June 2025)*
 - Bachelor of Technology in Computer Science Engineering
-- CGPA of 8.6
+- CGPA of 8.67
 - Bhopal, India
 
 ## 💼 Experience
+
+### Gamic  
+**Mobile Developer (Flutter) | Remote** *(Aug 2024 – Present)*  
+- Developed the frontend of the blockchain-based Gamic app using the Flutter framework.  
+- Integrated Firebase for real-time data syncing and cloud storage, enhancing app reliability by 25%.  
+- Collaborated with backend teams to ensure seamless blockchain integration and optimized API interactions, resulting in a 20% improvement in data transaction speed.  
+- Ensured cross-platform performance, leading to a 30% increase in user engagement and reducing development time by 50%.
+  
+### Pyramid Developers
+**Mobile Application Developer | Remote** *(Apr 2023 – Sept 2023)*
+- Built and maintained cross-platform Flutter applications, focusing on responsive UI design.
+- Collaborated effectively with remote teams to ensure timely project delivery.
+  
+### Young India (YI)
+**Mobile Application Developer | Bhopal, India** *(Jan 2023 – Mar 2023)*
+- Developed an inclusive educational app for underprivileged individuals.
+- Used Android (Java) for rapid development and integrated multiple APIs for efficiency.
 
 ### AICTE Idea Lab
 **Mobile Application Developer (Team Lead) | Bhopal, India** *(Oct 2022 – Dec 2022)*
 - Created cross-platform mobile applications using Flutter and Dart.
 - Utilized Android Studio (Java) for development, meeting project deadlines successfully.
 - Delivered presentations to share project progress, updates, and findings.
-
-### Young India (YI)
-**Mobile Application Developer | Bhopal, India** *(Jan 2023 – Mar 2023)*
-- Developed an inclusive educational app for underprivileged individuals.
-- Used Android (Java) for rapid development and integrated multiple APIs for efficiency.
-
-### Pyramid Developers
-**Mobile Application Developer | Remote** *(Apr 2023 – Sept 2023)*
-- Built and maintained cross-platform Flutter applications, focusing on responsive UI design.
-- Collaborated effectively with remote teams to ensure timely project delivery.
-
 ## 🚀 Projects
 
 ### Solopreneur
@@ -47,6 +52,7 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 
 ## 🏆 Achievements
 
+- Qualified GATE 2025
 - Winner and Team Leader at Hack2Educate Hackathon by MLH, December 2022.
 - Third position in Ideathon 2.0 held at LNCT Bhopal.
 - Published LeetCode solutions, aiding 300+ individuals.
