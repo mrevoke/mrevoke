@@ -52,12 +52,13 @@ I'm a passionate and results-driven **Mobile Application Developer** based in Bh
 
 ## 🏆 Achievements
 
-- Qualified GATE 2025
-- Winner and Team Leader at Hack2Educate Hackathon by MLH, December 2022.
-- Third position in Ideathon 2.0 held at LNCT Bhopal.
-- Published LeetCode solutions, aiding 300+ individuals.
-- Achieved 13th global Rank on InterviewBit.
-- Published My apps on Google Playstore and Amazon Appstore.
+- Secured **AIR 203 in GATE 2026 (Computer Science & Information Technology)**  
+- Qualified GATE 2025 (Computer Science & Information Technology)
+- Winner and Team Leader at Hack2Educate Hackathon by MLH, December 2022  
+- Third position in Ideathon 2.0 held at LNCT Bhopal  
+- Published LeetCode solutions, aiding 300+ individuals  
+- Achieved 13th global Rank on InterviewBit  
+- Published apps on Google Playstore and Amazon Appstore  
 
 ## 🛠️ Technical Skills
 
